@@ -4,4 +4,5 @@ $TTL 38400
 
 					IN	NS	ea.proyecto.ae.
 
-5.4.168.192		IN	PTR	ea.proyecto.ae.
+100		IN	PTR	ea.proyecto.ae.
+5		IN	PTR	cosa.proyecto.ae.

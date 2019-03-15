@@ -4,4 +4,5 @@ $TTL 38400
 
 			IN	NS	ea.proyecto.ae.
 
-ea.proyecto.ae.		IN	A	192.168.4.5
+ea.proyecto.ae.		IN	A	192.168.4.100
+cosa.proyecto.ae.	IN	A	192.168.4.5
