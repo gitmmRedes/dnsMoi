@@ -1,0 +1,7 @@
+$TTL 38400
+@			IN	SOA	ea.proyecto.ae. root.proyecto.ae. (
+1	360000	3600	360000	36000)
+
+					IN	NS	ea.proyecto.ae.
+
+5.4.168.192		IN	PTR	ea.proyecto.ae.
